@@ -1,0 +1,21 @@
+{
+  "name": "Pheeline Market Place",
+  "short_name": "Pheeline",
+  "description": "Discover Nigeria's markets, commodities, prices, vendors and local market intelligence.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#145c2c",
+  "orientation": "portrait-primary",
+  "categories": ["business", "food", "navigation"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en",
+  "dir": "ltr"
+}
